@@ -1,0 +1,6 @@
+server
+*.html
+**/__debug_bin*
+**/coverage.out
+FANATICS_ORDER_BOOK_TUTORIAL.md
+exercises/phase2
